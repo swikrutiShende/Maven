@@ -5,6 +5,7 @@ public class App
 {
 	public int sum(int a,int b) {
 		System.out.println("addition");
+		System.out.println("addition");
 		return a+b;
 		
 	}
