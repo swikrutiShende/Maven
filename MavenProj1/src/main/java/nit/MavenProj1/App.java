@@ -9,7 +9,12 @@ public class App
 		return a+b;
 		
 	}
-	
+	public int sub(int a,int b) {
+		System.out.println("substraction");
+		
+		return a-b;
+		
+	}
     public static void main( String[] args )
     {
     	System.out.println("Swikruti");
